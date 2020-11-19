@@ -46,7 +46,7 @@ Przyjmij, że:
   * dla dokumentów typu `TXT`: _TextScanXXXX.txt_, gdzie _XXXX_ oznacza numer skanowanego dokumentu od pierwszego uruchomienia kserokopiarki.
   > Przykład: `15.11.2020 22:31:13 Scan: ImageScan1.jpg`
 
-* Metoda `ScanAndPrint()` wykonuje skanowanie i natychmiastowy wydruk zeskanowanego dokumentu.
+* Metoda `ScanAndPrint()` wykonuje skanowanie (do `JPG`) i natychmiastowy wydruk zeskanowanego dokumentu.
 
 Weryfikuj napisany kod za pomocą dołączonych testów jednostkowych.
 
