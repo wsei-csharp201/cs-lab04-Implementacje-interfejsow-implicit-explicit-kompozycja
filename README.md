@@ -1,4 +1,4 @@
-# Lab-04. Implementacje interfejsów (_explicit_, _implicit_), kompozycja - `Copier`
+# Zadanie. Implementacje interfejsów (_explicit_, _implicit_), kompozycja - `Copier`
 
 * Krzysztof Molenda, ver. 01/2020.11.10
 
@@ -43,7 +43,7 @@ Przyjmij, że:
 * Metoda `Scan()` wypisuje na konsolę datę i godzinę skanu, słowo _Scan_ oraz nadaną nazwę pliku zeskanowanego dokumentu w formacie:
   * dla dokumentów typu `PDF`: _PDFScanXXXX.pdf_, gdzie _XXXX_ oznacza numer skanowanego dokumentu od pierwszego uruchomienia kserokopiarki,
   * dla dokumentów typu `JPG`: _ImageScanXXXX.jpg_, gdzie _XXXX_ oznacza numer skanowanego dokumentu od pierwszego uruchomienia kserokopiarki,
-  * dla dokumentów typu `TXT`: _TextScanXXXX.pdf_, gdzie _XXXX_ oznacza numer skanowanego dokumentu od pierwszego uruchomienia kserokopiarki.
+  * dla dokumentów typu `TXT`: _TextScanXXXX.txt_, gdzie _XXXX_ oznacza numer skanowanego dokumentu od pierwszego uruchomienia kserokopiarki.
   > Przykład: `15.11.2020 22:31:13 Scan: ImageScan1.jpg`
 
 * Metoda `ScanAndPrint()` wykonuje skanowanie i natychmiastowy wydruk zeskanowanego dokumentu.
