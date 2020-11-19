@@ -1,4 +1,4 @@
-# Zadanie. Implementacje interfejsów (_explicit_, _implicit_), kompozycja - `Copier`
+# Lab-04. Implementacje interfejsów (_explicit_, _implicit_), kompozycja - `Copier`
 
 * Krzysztof Molenda, ver. 01/2020.11.10
 
